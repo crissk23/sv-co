@@ -1,0 +1,346 @@
+EXPORTACIONES TXT - SV-CO / CONAN EXILES ENHANCED
+===================================================
+
+Fecha del paquete: 04/10/2026
+FlowCharts: 23
+Misiones: 32
+Exportaciones totales: 55
+
+Las lineas exportadas se conservan exactamente como fueron generadas por ToT.
+No se han cambiado GUID, etiquetas, objetivos, textos ni referencias internas.
+Las versiones del segundo TXT sustituyen a las antiguas cuando comparten GUID.
+El FlowChart vacio 'New Flow Chart' no se incluye.
+
+CONTENIDO
+---------
+
+FlowCharts/Default/MensajeApertura.txt
+  Tipo: FlowChart
+  GUID: 09636E0B40A9446773ADDD852596B307
+  Nombre: MensajeApertura
+  SHA-256: eb8a3f6dfae761a110ccee5460b77366a59b9795eeef0ecfd8499133ddcb4def
+
+FlowCharts/Default/Spawn.txt
+  Tipo: FlowChart
+  GUID: 04DB946F4D39C96EBAE49BB45262C0F7
+  Nombre: Spawn
+  SHA-256: b4a2f067c98484f2e13e254d089f8f8eb91dcaefcbdba603ecc30498b11aa726
+
+FlowCharts/Inicio/Presentacion.txt
+  Tipo: FlowChart
+  GUID: FA3C690745882BAD98A7F988989B89C4
+  Nombre: Inicio/Presentacion
+  SHA-256: 60f3cef0ab60d0ec87f2ca869c4a6e79fa4b6a3e4743db32cf1cbab1477c001e
+
+FlowCharts/Inicio/Verificado.txt
+  Tipo: FlowChart
+  GUID: 4B1BB7D14F0DA55AF2D5248B7EDABF7B
+  Nombre: Inicio/Verificado
+  SHA-256: 3e5dd6f11d6c4bc9ebd9337805213aac54d86dafedd59cb866fcb26e1ae26ec5
+
+FlowCharts/Lanzadores/IniciarCadenaReinicios.txt
+  Tipo: FlowChart
+  GUID: D3CF0CFA4850461E15A11AA48CE4DC9B
+  Nombre: Lanzadores/IniciarCadenaReinicios
+  SHA-256: 02f2a595d9bf9c0e03cb5bbb727d9cdaad965171e92a88d1f85d0e0709101f0a
+
+FlowCharts/Misiones/DarTag.txt
+  Tipo: FlowChart
+  GUID: C3C7454745B8DD5BE7F8118DC0AF7646
+  Nombre: Misiones/DarTag
+  SHA-256: d4a062a501639c6175858562ea23d5b8c3752584fd6c9af4f4cb6204c7bbf730
+
+FlowCharts/Misiones/Quitar_Tag.txt
+  Tipo: FlowChart
+  GUID: D9C0A08F42AA4D72D2A3449D3144271B
+  Nombre: Misiones/Quitar Tag
+  SHA-256: e7c79aa20cc5c235bc7c3517d03fb3e1f7efb40c687c1818df786dcfbdec2bfb
+
+FlowCharts/Misiones/Recursos.txt
+  Tipo: FlowChart
+  GUID: 350D9F4F46132EA50A2FAABCB48954F7
+  Nombre: Misiones/Recursos
+  SHA-256: 78d4fd856603dc03dc5d28dbe511778ee883a5d71bc05eedd383c82c9a24271c
+
+FlowCharts/NPC/Aprender_idioma.txt
+  Tipo: FlowChart
+  GUID: 65A7507E481AEC847E9DEDAFF52A3FA0
+  Nombre: NPC/Aprender idioma
+  SHA-256: 8b7fe1b3c5a28652f0a68dc5f18abd2cf50258e0a2c112865b1be39f09646ddc
+
+FlowCharts/NPC/Blackjack2.txt
+  Tipo: FlowChart
+  GUID: F4ED46FD415682AB42BC63BF6F57FF4F
+  Nombre: NPC/Blackjack2
+  SHA-256: 2d7c208d2493c3a0907c49c5d155e5635390b374f5301c5fef11df3f666bdbc9
+
+FlowCharts/NPC/BlackJackInicio.txt
+  Tipo: FlowChart
+  GUID: ADA617DC4D08B157674FAABE5100CD34
+  Nombre: NPC/BlackJackInicio
+  SHA-256: 89c2038f3c99272f835f77d2bc11c0d998ec453f0691f4aecd6bffb6099dfa43
+
+FlowCharts/NPC/Crear.txt
+  Tipo: FlowChart
+  GUID: D46A397A482ABB12993750B1472FDCC0
+  Nombre: NPC/Crear
+  SHA-256: 4e0f85e668524bc53ecbe146cc6d68d6a4e8e8259074e4cdbe8e33e342f58ca4
+
+FlowCharts/NPC/Fabricacion.txt
+  Tipo: FlowChart
+  GUID: 1969869B4328F89AC788FDB09D279691
+  Nombre: NPC/Fabricacion
+  SHA-256: 76bfff846adcef967a4cd18a30ccf85e094d54ec93dbf0de2327fb05b6c80f5d
+
+FlowCharts/NPC/FinReinicio.txt
+  Tipo: FlowChart
+  GUID: 101C4DE5482FD08BC29F40B7C9749716
+  Nombre: NPC/FinReinicio
+  SHA-256: af0f21313a7b620bcdd5a0aeda1e61af00c450d1f515b015a66605a53980f39e
+
+FlowCharts/NPC/InicioReinicio.txt
+  Tipo: FlowChart
+  GUID: 1DBED49C481F808E0E107D9342B6B6A3
+  Nombre: NPC/InicioReinicio
+  SHA-256: f668e757f76aac5e6262935b2cf83de8716aea21f977373b262ff8484f77dd88
+
+FlowCharts/NPC/Job.txt
+  Tipo: FlowChart
+  GUID: 4FD34DFB4EF476AA442A4F80341D496F
+  Nombre: NPC/Job
+  SHA-256: 10e5c77144ed641ffd1e4f675832bce1799b2000bab059aacb97a4333a93d4ba
+
+FlowCharts/NPC/MisionesClases.txt
+  Tipo: FlowChart
+  GUID: 82AC0A5C48AD84FF279776AA8827E1F5
+  Nombre: NPC/MisionesClases
+  SHA-256: a234d0f1c60bcb549fd7ee685a68995fac6a82f6937158cb45fe35572db2ab28
+
+FlowCharts/NPC/Reinicio.txt
+  Tipo: FlowChart
+  GUID: 1CAD12614242F59DA9A64AB647ABB695
+  Nombre: NPC/Reinicio
+  SHA-256: 717688f2840888db509a7f32722c2c98d3925ad73016b17eea1d4bfc69f2a6b6
+
+FlowCharts/Redux/Area_Efecto.txt
+  Tipo: FlowChart
+  GUID: BBF3E2C54380D9C4896F7D9B55ED8DB0
+  Nombre: Redux/Area Efecto
+  SHA-256: e42d8b37ab6418e5e6954ac8dd8b4ad7c11196c9f0550af37f0407ba13cc22e7
+
+FlowCharts/Redux/Area_Embestida.txt
+  Tipo: FlowChart
+  GUID: 3BE9F6A34A9B70C30E830186B89E3293
+  Nombre: Redux/Area Embestida
+  SHA-256: 5c6c0a1a3b6d17b5cdcac84993cc96ddb83baad2fc764be58bfc62515e8b4159
+
+FlowCharts/Redux/Area_Perforante.txt
+  Tipo: FlowChart
+  GUID: 55FEE3A14E947FF780B862A843E38C8E
+  Nombre: Redux/Area Perforante
+  SHA-256: a7a1845f680d28e30be940eaf790328f6df62dc5fc6d993acf6e8795af855902
+
+FlowCharts/Redux/Embestida_imparable_Dano.txt
+  Tipo: FlowChart
+  GUID: 8B2E8FD34FD367AAC2CD8F957FC36BEC
+  Nombre: Redux/Embestida imparable DaÃ±o
+  SHA-256: cd9d78f4dcbee863711b1e887fd0df44d5051a70694928caa7e50748f4b10bdc
+
+FlowCharts/Redux/Flecha_penetrante_Dano.txt
+  Tipo: FlowChart
+  GUID: 6F1EC4E141C2C4BE8582348C1F7B91E2
+  Nombre: Redux/Flecha penetrante DaÃ±o
+  SHA-256: 1e12013cda6ec1a8dbc4249c0a0814e4ae9a2442f268f5d18b57be5ba9c4509d
+
+Quests/Clases/Asesino/Asesino_Nivel_2_D4366D654AE02DA827FE829C4C6F7D87.txt
+  Tipo: Quest
+  GUID: D4366D654AE02DA827FE829C4C6F7D87
+  Nombre: Asesino Nivel 2
+  SHA-256: 4e6eb3d76023100d2ac7b423d17cd62fa22578d6748ee6ea991cd526f897be3e
+
+Quests/Clases/Asesino/Asesino_Nivel_3_58200630482E67A2D5DE0EBEFC70CF83.txt
+  Tipo: Quest
+  GUID: 58200630482E67A2D5DE0EBEFC70CF83
+  Nombre: Asesino Nivel 3
+  SHA-256: df52ed0c50b800183b1810228eb7143685ef6cb83ac40465627ee1e5153b8853
+
+Quests/Clases/Asesino/Asesino_Nivel_4_16E3E88C4B25874CE1E50DA91F6DEDDC.txt
+  Tipo: Quest
+  GUID: 16E3E88C4B25874CE1E50DA91F6DEDDC
+  Nombre: Asesino Nivel 4
+  SHA-256: 160e752049f20e2a8e2e49d0644f55055500491a76e1edcbf8d846f09ed51ee2
+
+Quests/Clases/Asesino/Asesino_Nivel_5_B2C586854A0E9F0104FE97885705FED6.txt
+  Tipo: Quest
+  GUID: B2C586854A0E9F0104FE97885705FED6
+  Nombre: Asesino Nivel 5
+  SHA-256: 46918e5f7d543eb4a1fbc80c0fa0097e0cabe47bfa6a0a97d6d4199f9002aac1
+
+Quests/Clases/Baluarte/Baluarte_Nivel_2_1A6B80FE44B154F8E300E3A9F740C9E2.txt
+  Tipo: Quest
+  GUID: 1A6B80FE44B154F8E300E3A9F740C9E2
+  Nombre: Baluarte Nivel 2
+  SHA-256: bf5ec2b72d419b68e2b093379dbd1de27136ec01c314e82700a6c3f8f527a615
+
+Quests/Clases/Baluarte/Baluarte_Nivel_3_EF9D14C2484AE84DA7BC5DA9A7FA9A41.txt
+  Tipo: Quest
+  GUID: EF9D14C2484AE84DA7BC5DA9A7FA9A41
+  Nombre: Baluarte Nivel 3
+  SHA-256: 1a2c9b78615993d5be8e9b67bee1a3f59288cd208908e3c071b7b3988de67479
+
+Quests/Clases/Baluarte/Baluarte_Nivel_4_4F67FD2A468D3ED5935940A0CF175290.txt
+  Tipo: Quest
+  GUID: 4F67FD2A468D3ED5935940A0CF175290
+  Nombre: Baluarte Nivel 4
+  SHA-256: 2ac6503df9aea0ea2c701cfa6fa41aeec6cbb3b5edf653649ebd48291999df6a
+
+Quests/Clases/Baluarte/Baluarte_Nivel_5_51C9D0D9422055A07301729A2B531640.txt
+  Tipo: Quest
+  GUID: 51C9D0D9422055A07301729A2B531640
+  Nombre: Baluarte Nivel 5
+  SHA-256: c488c03c00efd2a2ebd08d8af57a331dca6d6cbdc86797cfbf407fd16d9c4ddb
+
+Quests/Clases/Duelista/Duelista_Nivel_2_3384977846C7AF08B8DF418144B3987D.txt
+  Tipo: Quest
+  GUID: 3384977846C7AF08B8DF418144B3987D
+  Nombre: Duelista Nivel 2
+  SHA-256: 8c0138b3745acff775218b8a7e8b7a3d4ed7f2af5b9a133a8838128c8749878b
+
+Quests/Clases/Duelista/Duelista_Nivel_3_2C27240C4ACF85647C06CAAD1323FD9D.txt
+  Tipo: Quest
+  GUID: 2C27240C4ACF85647C06CAAD1323FD9D
+  Nombre: Duelista Nivel 3
+  SHA-256: 401117c9213c86854e3cb112ad117c3eda5762bcd14094c01ae969eebe91c7ae
+
+Quests/Clases/Duelista/Duelista_Nivel_4_C2F3A2B845567927A2FA3FBA32ACD6CE.txt
+  Tipo: Quest
+  GUID: C2F3A2B845567927A2FA3FBA32ACD6CE
+  Nombre: Duelista Nivel 4
+  SHA-256: 622dd96d442f63a8b7b94840d067a9293867c8ecc59ad79e19fd5e9522b1c842
+
+Quests/Clases/Duelista/Duelista_Nivel_5_F68DB3D64121F1EA6263E5B73B165A03.txt
+  Tipo: Quest
+  GUID: F68DB3D64121F1EA6263E5B73B165A03
+  Nombre: Duelista Nivel 5
+  SHA-256: 5c63f0a119f7eb8af8ce2d69b104d8ba5b6c5226af55e4d2a860dd9ff2a01b92
+
+Quests/Clases/Hechicero/Hechicero_Nivel_2_F4981B7B456E842C066FEF9CF4DC241F.txt
+  Tipo: Quest
+  GUID: F4981B7B456E842C066FEF9CF4DC241F
+  Nombre: Hechicero Nivel 2
+  SHA-256: 2cd3b9a2d882b6294cfc068683d4af41b21f7aed04e8680bbd97de540c783144
+
+Quests/Clases/Hechicero/Hechicero_Nivel_3_CBC5D3A745D9192DC2E19D9DE88283E8.txt
+  Tipo: Quest
+  GUID: CBC5D3A745D9192DC2E19D9DE88283E8
+  Nombre: Hechicero Nivel 3
+  SHA-256: 49327c0cd07715100387d998afc0d3a011510f44f5cb96cc16cd9b1836adb59e
+
+Quests/Clases/Hechicero/Hechicero_Nivel_4_670328AA48A2D5753E35378088FF3FBC.txt
+  Tipo: Quest
+  GUID: 670328AA48A2D5753E35378088FF3FBC
+  Nombre: Hechicero Nivel 4
+  SHA-256: 9c48f955c4506955ebc6e8abdf7c8fc196dc0992035af5a0048d40758cf704c1
+
+Quests/Clases/Hechicero/Hechicero_Nivel_5_478D4C1548D8703C3025338ADFE1EA19.txt
+  Tipo: Quest
+  GUID: 478D4C1548D8703C3025338ADFE1EA19
+  Nombre: Hechicero Nivel 5
+  SHA-256: 78c553ea47900a94ab5f880c1a88aee7b92651ff7c80e7bf87e5274673e55ed0
+
+Quests/Clases/Mago/Mago_Nivel_2_D08CCDCD42C4AA54C4799FB38C40AA18.txt
+  Tipo: Quest
+  GUID: D08CCDCD42C4AA54C4799FB38C40AA18
+  Nombre: Mago Nivel 2
+  SHA-256: c1b59c7bd6bcb8ace1f28f198e101f7d79c9a9d68cded3d1c082982020332eda
+
+Quests/Clases/Mago/Mago_Nivel_3_B2948B86433FE76F55CD93A8F5AC3D94.txt
+  Tipo: Quest
+  GUID: B2948B86433FE76F55CD93A8F5AC3D94
+  Nombre: Mago Nivel 3
+  SHA-256: ae011ab3c8ff06a51a48c023bf026258ecfcd308db2f6e953a8264096265b2dc
+
+Quests/Clases/Mago/Mago_Nivel_4_19A304F9447F385F0B646085DADA0226.txt
+  Tipo: Quest
+  GUID: 19A304F9447F385F0B646085DADA0226
+  Nombre: Mago Nivel 4
+  SHA-256: 9764ab5d4f08945173d9b2b25555d1397c6d8cf8c7ed123c52793663442a1fe0
+
+Quests/Clases/Mago/Mago_Nivel_5_12E6FB724D55073B00F5AFADBE7C092B.txt
+  Tipo: Quest
+  GUID: 12E6FB724D55073B00F5AFADBE7C092B
+  Nombre: Mago Nivel 5
+  SHA-256: 939437e268e150d91449980afe7b33fb32a36cff4281fb975f23012b98d30c3d
+
+Quests/Clases/Picaro/Picaro_Nivel_2_395264744917A2784900679FE09344C1.txt
+  Tipo: Quest
+  GUID: 395264744917A2784900679FE09344C1
+  Nombre: Picaro Nivel 2
+  SHA-256: 9a78437fed44304c1ed6fa17f640b12bef1697b47f7147601e09414bef569e67
+
+Quests/Clases/Picaro/Picaro_Nivel_3_9131C141402A541EF02FEC88E99D97E4.txt
+  Tipo: Quest
+  GUID: 9131C141402A541EF02FEC88E99D97E4
+  Nombre: Picaro Nivel 3
+  SHA-256: b7783892f8423b37e0b6f6af46d350219609309e16fa82d89dfe90a3ef8327ee
+
+Quests/Clases/Picaro/Picaro_Nivel_4_2C5A134443CD4156A6467AAAE6313FD1.txt
+  Tipo: Quest
+  GUID: 2C5A134443CD4156A6467AAAE6313FD1
+  Nombre: Picaro Nivel 4
+  SHA-256: 9be536458d5a48cba2b5b76c2ad43d947b27273bee6afbb4e91abcd91e91e7ed
+
+Quests/Clases/Picaro/Picaro_Nivel_5_F0FC26D74A19A6B958FC19BD82B45A6C.txt
+  Tipo: Quest
+  GUID: F0FC26D74A19A6B958FC19BD82B45A6C
+  Nombre: Picaro Nivel 5
+  SHA-256: f1990d190b5b43a9772997e018943707a53ab5440406c5618575d3416d510914
+
+Quests/Clases/Sabio/Sabio_Mago_Nivel_2_C151F2A94036BB32D945B6852AF388FA.txt
+  Tipo: Quest
+  GUID: C151F2A94036BB32D945B6852AF388FA
+  Nombre: Sabio Mago Nivel 2
+  SHA-256: 49c67db06f1be4085de55ca0d7623d4b43f569606657d340be4288cb03b10ea0
+
+Quests/Clases/Sabio/Sabio_Nivel_3_E7B8C553499CEA2C025B0ABD8F6B1C81.txt
+  Tipo: Quest
+  GUID: E7B8C553499CEA2C025B0ABD8F6B1C81
+  Nombre: Sabio Nivel 3
+  SHA-256: f7ffb34e019b7e014d1a084c9196a9b55ddcb2cf889c8e8a4f25fee9b494b5e5
+
+Quests/Clases/Sabio/Sabio_Nivel_4_D04AEBF74F721A6423DD47BA41B1FE38.txt
+  Tipo: Quest
+  GUID: D04AEBF74F721A6423DD47BA41B1FE38
+  Nombre: Sabio Nivel 4
+  SHA-256: 579b42571cb885c69883a4e6fbe23bcb9db851a5b7f512a9f60cb642f2d6222c
+
+Quests/Clases/Sabio/Sabio_Nivel_5_B9A37456436D8384FA15E7AA643F2246.txt
+  Tipo: Quest
+  GUID: B9A37456436D8384FA15E7AA643F2246
+  Nombre: Sabio Nivel 5
+  SHA-256: f553b676fd7d930532f25b6a797f8022726d018669da5aa3506077f5a5a0f342
+
+Quests/Clases/Tirador/Tirador_Nivel_2_BC18B206425BD4BA0853B9AFB3CAFB49.txt
+  Tipo: Quest
+  GUID: BC18B206425BD4BA0853B9AFB3CAFB49
+  Nombre: Tirador Nivel 2
+  SHA-256: a144cddcfdbf6723c20b532425f474745905c7e1de24275193062e72a24a90e7
+
+Quests/Clases/Tirador/Tirador_Nivel_3_8B8B099644F7DAFD81BE2F8A5CC280F3.txt
+  Tipo: Quest
+  GUID: 8B8B099644F7DAFD81BE2F8A5CC280F3
+  Nombre: Tirador Nivel 3
+  SHA-256: 56b6e9d3eae2a8e09eb3ee9a38cb501d1f12c127dd941f6539e9498f08a25fbe
+
+Quests/Clases/Tirador/Tirador_Nivel_4_2E829F484A2C7D08C9B62AB4B69E5E7E.txt
+  Tipo: Quest
+  GUID: 2E829F484A2C7D08C9B62AB4B69E5E7E
+  Nombre: Tirador Nivel 4
+  SHA-256: d56e248ecaeb14f9069879fd0e20e2a8b3c4081ce4b3d4f69681ea0c7e1e5280
+
+Quests/Clases/Tirador/Tirador_Nivel_5_70354C654C13888B9E5697B2F70FCB29.txt
+  Tipo: Quest
+  GUID: 70354C654C13888B9E5697B2F70FCB29
+  Nombre: Tirador Nivel 5
+  SHA-256: 60c7546b665a443e11112b285798cc87534d0a2b68d2c359793a2a6554ab8605
+

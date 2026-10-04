@@ -1,0 +1,32 @@
+REVISION PENDIENTE ANTES DE PRODUCCION
+=======================================
+
+Este documento no modifica las exportaciones. Enumera los puntos detectados.
+
+1. Las misiones Duelista Nivel 2, 3, 4 y 5 entregan actualmente las etiquetas
+   Barbaro Nivel 2, 3, 4 y 5. Revisar si deben ser Duelista Nivel 2-5.
+
+2. La mision 'Sabio Mago Nivel 2' entrega la etiqueta 'Sabio Nivel 2'.
+   Unificar el nombre si no es una diferencia intencionada.
+
+3. Las 32 misiones comparten titulo, texto y objetivo:
+   - Titulo: Vamos a por mas
+   - Objetivo: Mata al rey sin cabeza
+   - Key: Boss_AtlanteanKing
+   - Cantidad: 1
+   - Point: 1112
+   Confirmar si son plantillas provisionales o el diseño definitivo.
+
+4. No se incluyen las ocho misiones iniciales o de nivel 1.
+   NPC/MisionesClases espera QuestClase ademas de QuestClaseNivel2-5.
+
+5. Todas las misiones usan la categoria GUID:
+   7D7AFDBA4C889EAB4DAD739FE2D464CA
+   Conviene exportar o documentar tambien esa categoria.
+
+6. NPC/MisionesClases no incorpora por defecto las referencias concretas de las
+   quests. Guardar tambien la configuracion de cada NPC/Puppet de clase, incluidos
+   QuestClase, QuestClaseNivel2-5, TagClase, TagNivel2-5 y PerkClase/Nivel2-5.
+
+7. Verificar si Visible=0 es intencionado. Puede ser correcto si la quest solo
+   debe mostrarse cuando la inicia el FlowChart.

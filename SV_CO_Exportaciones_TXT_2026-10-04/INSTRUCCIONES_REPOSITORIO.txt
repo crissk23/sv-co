@@ -1,0 +1,22 @@
+COMO SUBIR ESTE PAQUETE AL REPOSITORIO
+======================================
+
+Ruta recomendada dentro de sv-co:
+
+exports/
+  FlowCharts/
+  Quests/
+  INDICE.txt
+  REVISION_PENDIENTE.txt
+  INSTRUCCIONES_REPOSITORIO.txt
+
+Copia el contenido de este paquete dentro de la carpeta exports del repositorio.
+No sustituyas ni elimines las carpetas GUID con archivos .sav: los TXT son una
+copia legible y versionable adicional.
+
+Antes de importar en produccion:
+1. Haz una copia del servidor y de la base de datos.
+2. Importa primero en una instancia de pruebas.
+3. No cambies los GUID de elementos ya referenciados.
+4. Comprueba las incidencias descritas en REVISION_PENDIENTE.txt.
+5. Prueba una cadena completa de clase desde nivel 1 hasta nivel 5.
